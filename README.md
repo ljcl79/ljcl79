@@ -23,6 +23,5 @@
 - 👥 **Seguidores:** [![GitHub Followers](https://img.shields.io/github/followers/ljcl79?style=flat&logo=github)](https://github.com/ljcl79?tab=followers)
 
 ### ¡Conéctate conmigo!
-- 📫 **Correo:** ljcl79@example.com
 - 🔗 **LinkedIn:** [Leonardo Castillo](https://www.linkedin.com/in/leonardo-castillo-4911571a/)
 - 🎥 **YouTube:** [Leonardo Castillo - Canal de YouTube](https://www.youtube.com/leonardocastillo79)
